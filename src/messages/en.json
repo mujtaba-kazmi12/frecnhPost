@@ -1,6 +1,6 @@
 {
   "app": {
-    "name": "GermanGuestPost"
+    "name": "FrenchGuestPost"
   },
   "navigation": {
     "home": "Home",
@@ -196,7 +196,7 @@
       "errorNotVerified" : "User is not verified yet",
       "zodEmail": "Please enter a valid email address",
       "zodPassword": "Password must be at least 6 characters",
-      "decorativeDashboardTitle": "GermanGuestPost Dashboard",
+      "decorativeDashboardTitle": "FrenchGuestPost Dashboard",
       "welcomeTitle": "Welcome Back",
       "welcomeSubtitle": "Log in to access your dashboard and continue your journey with us."
     },
@@ -334,10 +334,14 @@
       "description": "We've sent password reset instructions to your email address. Please check your inbox and follow the instructions to reset your password.",
       "emailNote": "If you don't see the email, please check your spam folder.",
       "backToLogin": "Return to Login"
+    },
+    "signIn": {
+      "title": "Sign In | FrenchGuestPost",
+      "description": "Sign in to your FrenchGuestPost account"
     }
   },
   "footer": {
-    "logoText": "GermanGuestPost",
+    "logoText": "FrenchGuestPost",
     "description": "The premier marketplace connecting content creators with publishers for high-quality guest posting opportunities.",
     "platformTitle": "Platform",
     "platformLink1": "Marketplace",
@@ -357,10 +361,10 @@
     "bottomLinkContact": "Contact",
     "bottomLinkPrivacy": "Privacy Policy",
     "bottomLinkTerms": "Terms",
-    "copyright": "© {year} GermanGuestPost. All rights reserved."
+    "copyright": "© {year} FrenchGuestPost. All rights reserved."
   },
   "Header": {
-    "logoText": "GermanGuestPost",
+    "logoText": "FrenchGuestPost",
     "home": "Home",
     "contact": "Contact",
     "aboutUs": "About Us",
@@ -644,8 +648,8 @@
   },
   "pageMetadata": {
     "signIn": {
-      "title": "Sign In | GermanGuestPost",
-      "description": "Sign in to your GermanGuestPost account"
+      "title": "Sign In | FrenchGuestPost",
+      "description": "Sign in to your FrenchGuestPost account"
     }
   },
   "checkout": {

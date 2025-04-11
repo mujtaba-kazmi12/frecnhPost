@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { getTranslations } from 'next-intl/server';
 
 // export const metadata: Metadata = {
-//   title: "Sign In | GermanGuestPost",
+//   title: "Sign In | FrenchGuestPost",
 //   description: "Sign in to your marketplace account",
 // };
 

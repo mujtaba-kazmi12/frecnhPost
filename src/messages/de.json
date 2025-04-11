@@ -1,6 +1,6 @@
 {
   "app": {
-    "name": "GermanGuestPost"
+    "name": "FrenchGuestPost"
   },
   "navigation": {
     "home": "Startseite",
@@ -149,7 +149,7 @@
       "errorNotVerified" : "Der Benutzer ist noch nicht verifiziert",
       "zodEmail": "Bitte geben Sie eine gültige E-Mail-Adresse ein",
       "zodPassword": "Das Passwort muss mindestens 6 Zeichen lang sein",
-      "decorativeDashboardTitle": "GermanGuestPost Dashboard",
+      "decorativeDashboardTitle": "FrenchGuestPost Dashboard",
       "welcomeTitle": "Willkommen zurück",
       "welcomeSubtitle": "Melden Sie sich an, um auf Ihr Dashboard zuzugreifen und Ihre Reise mit uns fortzusetzen."
     },
@@ -263,6 +263,10 @@
       "footerRedirect": "Sie werden nach der Bestätigung zur Anmeldeseite weitergeleitet",
       "zodOtpMin": "Der OTP-Code muss 6 Ziffern lang sein.",
       "zodOtpMax": "Der OTP-Code muss 6 Ziffern lang sein."
+    },
+    "signIn": {
+      "title": "Anmelden | FrenchGuestPost",
+      "description": "Melden Sie sich bei Ihrem FrenchGuestPost-Konto an"
     }
   },
   "footer": {
@@ -270,8 +274,8 @@
     "terms": "AGB",
     "privacy": "Datenschutz",
     "contact": "Kontakt",
-    "copyright": "© 2024 GermanGuestPost. Alle Rechte vorbehalten.",
-    "logoText": "GermanGuestPost",
+    "copyright": "© 2024 FrenchGuestPost. Alle Rechte vorbehalten.",
+    "logoText": "FrenchGuestPost",
     "description": "Der führende Marktplatz, der Content-Ersteller mit Publishern für hochwertige Gastbeitragsmöglichkeiten verbindet.",
     "platformTitle": "Plattform",
     "platformLink1": "Marktplatz",
@@ -289,7 +293,7 @@
     "bottomLinkTerms": "AGB"
   },
   "Header": {
-    "logoText": "GermanGuestPost",
+    "logoText": "FrenchGuestPost",
     "home": "Startseite",
     "contact": "Kontakt",
     "aboutUs": "Über Uns",
@@ -572,8 +576,8 @@
   },
   "pageMetadata": {
     "signIn": {
-      "title": "Anmelden | GermanGuestPost",
-      "description": "Melden Sie sich bei Ihrem GermanGuestPost-Konto an"
+      "title": "Anmelden | FrenchGuestPost",
+      "description": "Melden Sie sich bei Ihrem FrenchGuestPost-Konto an"
     }
   },
   "cart": {

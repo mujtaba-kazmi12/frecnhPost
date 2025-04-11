@@ -59,7 +59,7 @@ function CompanyHeader() {
           {/* Only show text when expanded */}
           {!isCollapsed && (
             <div className="flex flex-col">
-              <span className="text-sm font-bold tracking-tight bg-clip-text text-transparent bg-gradient-to-r from-violet-600 to-fuchsia-600">GermanGuestPost</span>
+              <span className="text-sm font-bold tracking-tight bg-clip-text text-transparent bg-gradient-to-r from-violet-600 to-fuchsia-600">FrenchGuestPost</span>
               <span className="text-xs text-slate-500">Content Marketplace</span>
             </div>
           )}
